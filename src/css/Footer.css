@@ -1,0 +1,16 @@
+.footer {
+  height: px;
+  background-color: #e6e6e6;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  marg-bottom: 0;
+}
+
+.footer p {
+  margin-right: auto;
+  margin-left: auto;
+  color: #929292;
+  font-size: 13px;
+  text-align: center;
+}

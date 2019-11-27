@@ -1,0 +1,38 @@
+.logo {
+  height: 8px !important;
+  margin-top: 8px;
+  margin-left: 32px;
+  cursor: pointer;
+  content: url("http://www.salmonshaman.com/svg_icons/logo_generic_header.svg");
+}
+
+.header {
+  background-color: #00739d;
+  height: 56px;
+  width: 100%;
+  min-width: 768;
+  color: white;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.15);
+  position: fixed;
+  z-index: 999999;
+}
+
+.header h2 {
+  position: absolute;
+  display: inline-block;
+  top: -8px;
+  padding-left: 24px;
+  color: white;
+  font-weight: 100;
+  padding-top: 0px;
+}
+
+.outer-links {
+  float: right;
+}
+
+.usr-header {
+  height: 40px;
+  margin-right: 32px;
+  margin-top: 8px;
+}

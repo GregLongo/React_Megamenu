@@ -1,0 +1,27 @@
+.main-content {
+  text-align: center;
+}
+
+.intro {
+  top: 30vh;
+  position: relative;
+}
+
+.view-1 img {
+  top: 10vh;
+  max-width: 90vw;
+  position: relative;
+}
+
+.view-2 img {
+  top: 2vh;
+  max-width: 90vw;
+  position: relative;
+}
+
+/*svg hosted elsewhere, current environment is fiddly with svg*/
+
+.g-logo {
+  height: 128px;
+  content: url("http://www.salmonshaman.com/svg_icons/logo_generic.svg");
+}
